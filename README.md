@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E44FF&height=200&section=header&text=Savani's%20Dev%20Zone&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Level%203%20CS%20Student%20at%20UCL&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E44FF&height=200&section=header" width="100%" />
 </div>
 
 <div align="center">
@@ -44,7 +44,6 @@
   <p>
     <img src="https://img.shields.io/badge/Python-9575CD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Java-9575CD?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/JavaScript-9575CD?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/C-9575CD?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/React-9575CD?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   </p>
