@@ -9,7 +9,6 @@
 <br>
 
 <div align="center" style="background: linear-gradient(to right, #4A148C, #7B1FA2); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
-  <h2 style="color: #E1BEE7; text-shadow: 0 0 5px #CE93D8; font-family: 'Press Start 2P', cursive;">👋 PLAYER PROFILE</h2>
   <p style="color: #E1BEE7; font-size: 16px;">
     Hey, I'm Savani. I'm a third year CS undergraduate at UCL<br>
     <a href="https://www.linkedin.com/in/savani-sawaikar-1774331ba/" style="color: #B39DDB; text-decoration: none; border-bottom: 2px solid #7E57C2;">Connect on LinkedIn</a>
