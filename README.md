@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpapercave.com/wp/wp2799161.jpg" width="100%" alt="Lord of the Rings Header" />
+  <img src="https://wallpapercave.com/lord-of-the-rings-wallpaper-hd" width="100%" alt="Lord of the Rings Header" />
 </div>
 
 <div align="center">
