@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E44FF&height=200&section=header&text=Savani's%20Dev%20Zone&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Level%203%20CS%20Student%20at%20UCL&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E44FF&height=200&section=header" width="100%" />
 </div>
 
 <div align="center">
