@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E44FF&height=200&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E44FF&height=200&section=header&text=Savani's%20Dev%20Zone&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Level%203%20CS%20Student%20at%20UCL&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 <div align="center" style="background: linear-gradient(to right, #4A148C, #6A1B9A); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h2 style="color: #D1C4E9; text-shadow: 0 0 5px #B39DDB; font-family: 'Press Start 2P', cursive;">🔥 STREAK</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savs02&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savs02&background=20,4A148C,7B1FA2&stroke=9575CD&ring=B39DDB&fire=E1BEE7&currStreakNum=E1BEE7&sideNums=E1BEE7&currStreakLabel=D1C4E9&sideLabels=D1C4E9&dates=9575CD&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -43,9 +43,9 @@
   <h2 style="color: #E1BEE7; text-shadow: 0 0 5px #CE93D8; font-family: 'Press Start 2P', cursive;">🧰 SKILLS</h2>
   <p>
     <img src="https://img.shields.io/badge/Python-9575CD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-9575CD?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Java-9575CD?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-9575CD?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/JavaScript-9575CD?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/C-9575CD?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/React-9575CD?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   </p>
 </div>
