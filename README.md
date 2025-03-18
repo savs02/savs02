@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://wallpapercave.com/lord-of-the-rings-wallpaper-hd" width="100%" alt="Lord of the Rings Header" />
-</div>
+  <img src="https://raw.githubusercontent.com/savs02/savs02/main/lotr-header.png" width="100%" alt="Lord of the Rings Header" />
+</div>>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=9D72FF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+PROFILE;LOADING+DEVELOPER+DATA...;SKILLS+INITIALIZED" alt="Typing SVG" />
