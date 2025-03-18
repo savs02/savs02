@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C19A6B&height=200&section=header&text=One%20Profile%20to%20Rule%20Them%20All&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Savani's%20Journey%20Through%20Middle-earth&descSize=18&descAlign=50&descAlignY=60" width="100%" />
+  <img src="https://raw.githubusercontent.com/savs02/savs02/main/lotr-header.png" width="100%" alt="Lord of the Rings Header" />
 </div>
 
 <div align="center">
