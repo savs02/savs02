@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey I'm Savani 
 
-<!--
-**savs02/savs02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a third year cs undergraduate at ucl
+Linkedin: [LinkedIn](https://www.linkedin.com/in/savani-sawaikar-1774331ba/)
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=github" alt="Recent Activity Graph" />
+</p>
