@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/savs02/savs02/main/lotr-header.png" width="100%" alt="Lord of the Rings Header" />
+  <img src="wp5252110-lord-of-the-rings-4k-wallpapers.jpg" width="100%" alt="Lord of the Rings Header" />
 </div>>
 
 <div align="center">
