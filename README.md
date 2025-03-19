@@ -27,10 +27,7 @@
 <!-- 🔥 STREAK -->
 <div align="center" style="background: linear-gradient(to right, #4A148C, #6A1B9A); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h2 style="color: #D1C4E9; text-shadow: 0 0 5px #B39DDB; font-family: 'Press Start 2P', cursive;">🔥 STREAK</h2>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=savs02&theme=midnight-purple&hide_border=true"
-    alt="GitHub Streak"
-  />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 
