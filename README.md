@@ -26,7 +26,9 @@
 
 <div align="center" style="background: linear-gradient(to right, #4A148C, #6A1B9A); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h2 style="color: #D1C4E9; text-shadow: 0 0 5px #B39DDB; font-family: 'Press Start 2P', cursive;">🔥 STREAK</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savs02&theme=dark&hide_border=true&background=4A148C&stroke=9575CD&ring=B39DDB&fire=E1BEE7&currStreakNum=E1BEE7&sideNums=E1BEE7&currStreakLabel=D1C4E9&sideLabels=D1C4E9&dates=9575CD" alt="GitHub Streak"/>
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savs02&theme=monokai" alt="GitHub Stats" />
+</p>
 </div>
 <br>
 
