@@ -30,28 +30,6 @@
   <img src="https://streak-stats.demolab.com/?user=savs02&show_icons=true&hide_border=true&bg_color=20,4A148C,7B1FA2&title_color=D1C4E9&text_color=E1BEE7&icon_color=9575CD&cache_seconds=1800" alt="GitHub Stats" />
 </div>
 
-<div align="center" style="background: linear-gradient(to right, #4A148C, #6A1B9A); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
-  <h2 style="color: #D1C4E9; text-shadow: 0 0 5px #B39DDB; font-family: 'Press Start 2P', cursive;">🔥 STREAK</h2>
-  <img
-    src="https://streak-stats.demolab.com?user=savs02
-          &hide_border=true
-          &theme=midnight-purple
-          &background=45%2C4A148C%2C7B1FA2
-          &stroke=9575CD
-          &ring=B39DDB
-          &fire=E1BEE7
-          &currStreakNum=E1BEE7
-          &sideNums=E1BEE7
-          &currStreakLabel=D1C4E9
-          &sideLabels=D1C4E9
-          &dates=9575CD
-          &cache_seconds=1800"
-    alt="GitHub Streak"
-    style="max-width: 100%;"
-  />
-</div>
-
-
 <br>
 
 <div align="center" style="background: linear-gradient(to right, #311B92, #4527A0); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
