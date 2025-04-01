@@ -19,21 +19,21 @@
 
 <div align="center" style="background: linear-gradient(to right, #311B92, #512DA8); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h2 style="color: #D1C4E9; text-shadow: 0 0 5px #B39DDB; font-family: 'Press Start 2P', cursive;">⚔️ STATS</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=savs02&show_icons=true&hide_border=true&bg_color=20,4A148C,7B1FA2&title_color=D1C4E9&text_color=E1BEE7&icon_color=9575CD&cache_seconds=60" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savs02&show_icons=true&hide_border=true&bg_color=20,4A148C,7B1FA2&title_color=D1C4E9&text_color=E1BEE7&icon_color=9575CD&cache_seconds=30" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center" style="background: linear-gradient(to right, #311B92, #512DA8); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h2 style="color: #D1C4E9; text-shadow: 0 0 5px #B39DDB; font-family: 'Press Start 2P', cursive;">🔥 STREAK</h2>
-  <img src="https://streak-stats.demolab.com/?user=savs02&show_icons=true&hide_border=true&bg_color=20,4A148C,7B1FA2&title_color=D1C4E9&text_color=E1BEE7&icon_color=9575CD&cache_seconds=30" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com/?user=savs02&show_icons=true&hide_border=true&bg_color=20,4A148C,7B1FA2&title_color=D1C4E9&text_color=E1BEE7&icon_color=9575CD&cache_seconds=40" alt="GitHub Streaks" />
 </div>
 
 <br>
 
 <div align="center" style="background: linear-gradient(to right, #311B92, #4527A0); padding: 20px; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h2 style="color: #D1C4E9; text-shadow: 0 0 5px #B39DDB; font-family: 'Press Start 2P', cursive;">📊 ACTIVITY</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savs02&bg_color=20,4A148C,7B1FA2&color=E1BEE7&line=B39DDB&point=D1C4E9&area=true&area_color=9575CD&hide_border=true&cache_seconds=40" alt="Recent Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savs02&bg_color=20,4A148C,7B1FA2&color=E1BEE7&line=B39DDB&point=D1C4E9&area=true&area_color=9575CD&hide_border=true&cache_seconds=30" alt="Recent Activity Graph" />
 </div>
 
 <br>
